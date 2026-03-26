@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hello, I'm Alon Vialle
 
-<!--
-**unvialle/unvialle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder • FinTech Architect • Blockchain Systems
 
-Here are some ideas to get you started:
+Designing and building next-generation financial infrastructure, digital banking systems, and scalable crypto ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🚀 Founder focused on financial technologies
+- 💳 Architect of internal banking & payment systems
+- 💠 Developing crypto-based ecosystems and token models
+- ⚡ Building scalable, high-performance infrastructures
+- 🧩 Systems thinking & architecture-first approach
+
+---
+
+## ⚙️ Tech Stack
+
+**Core:**
+- Python • Node.js • REST APIs
+
+**Blockchain:**
+- Solidity • Web3 • Smart Contracts
+
+**Infrastructure:**
+- Docker • Linux • Microservices
+
+**Data:**
+- PostgreSQL • Redis
+
+---
+
+## 📊 Current Focus
+
+- 🏦 Digital Banking Systems
+- 💠 Internal Crypto Tokens
+- ⚡ High-load backend systems
+- 🤖 Automation & AI integration
+
+---
+
+## 🌐 Vision
+
+> Building independent financial infrastructure for the next generation.
+
+---
+
+## 📫 Contact
+
+- 📧 Email: founder@vialle.tech  
+- 🌐 Website: https://vialle.tech  
+- 💬 Telegram: https://t.me/alonvialle  
+
+---
+
+## ⚡ GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+---
+
+## 🧩 Core Projects
+
+- 🔹 Digital Banking Core (in progress)
+- 🔹 Crypto Payment Infrastructure
+- 🔹 Internal Token Ecosystem
+
+---
+
+## 🔐 Principles
+
+- Secure-by-design
+- Scalable architecture
+- System over chaos
+
+---
